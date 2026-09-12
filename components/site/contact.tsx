@@ -70,7 +70,7 @@ export function Contact() {
             <div className="overflow-hidden rounded-lg border border-border">
               <iframe
                 title="CPA Kimende office location on Google Maps"
-                src="https://www.google.com/maps?q=Kimathi+Street,+Nairobi,+Kenya&output=embed"
+                src="https://www.google.com/maps?q=Soi+Plaza,+Makueni,+Kenya&output=embed"
                 className="h-64 w-full"
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
