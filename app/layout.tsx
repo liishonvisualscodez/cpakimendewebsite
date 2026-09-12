@@ -17,7 +17,7 @@ const caslon = Libre_Caslon_Text({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://cpakimende.co.ke'),
+  metadataBase: new URL('https://cpakimende.com'),
   title: {
     default: 'CPA Kimende | Accounting, Audit, Tax & Business Advisory in Kenya',
     template: '%s | CPA Kimende',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   keywords: [
     'CPA Kimende',
     'accounting firm Kenya',
-    'audit services Nairobi',
+    'audit services Makueni',
     'tax advisory Kenya',
     'bookkeeping Kenya',
     'business advisory Kenya',
