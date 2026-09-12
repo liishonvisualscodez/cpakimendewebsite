@@ -1,10 +1,10 @@
 export const siteConfig = {
   name: 'CPA Kimende',
   tagline: 'Accounting, Audit, Tax & Business Advisory',
-  phoneDisplay: '+254 722147720',
-  phoneHref: '+254722147720',
+  phoneDisplay: '+254 116566767',
+  phoneHref: '+254116566767',
   whatsappHref: '254722147720',
-  email: 'cpakimende@gmail.com',
+  email: 'cpakimende@outlook.com',
   addressLines: ['2nd Floor', 'Soi Plaza', 'Old Equity'],
   hours: [
     { day: 'Monday – Friday', time: '8:00 AM – 5:30 PM' },
